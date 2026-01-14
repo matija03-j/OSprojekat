@@ -131,6 +131,7 @@ The final executable is named `kernel`.
 ├── src/        # Kernel source code (C++ and assembly)
 ├── h/          # Header files
 ├── lib/        # Provided static libraries (hw.lib, mem.lib, console.lib)
+├── test
 ├── Makefile
 └── README.md
 ```
