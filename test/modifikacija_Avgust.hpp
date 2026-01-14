@@ -1,0 +1,12 @@
+//
+// Created by os on 9/25/24.
+//
+
+#ifndef PROJECT_BASE_V1_1_MODIFIKACIJA_AVGUST_HPP
+#define PROJECT_BASE_V1_1_MODIFIKACIJA_AVGUST_HPP
+
+
+void modifikacija_Avgust();
+
+
+#endif //PROJECT_BASE_V1_1_MODIFIKACIJA_AVGUST_HPP
